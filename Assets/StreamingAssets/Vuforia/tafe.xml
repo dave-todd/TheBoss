@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="five-dollar-note-b" size="250.000000 140.769226" />
+    <ImageTarget name="fifty-dollar-note-b" size="250.000000 106.280190" />
+    <ImageTarget name="twenty-dollar-note-b" size="250.000000 110.000000" />
+    <ImageTarget name="Poster" size="250.000000 176.778870" />
+  </Tracking>
+</QCARConfig>
